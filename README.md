@@ -16,5 +16,3 @@ Once the Flask application is running and the ngrok tunnel is established, you w
 
 ->Upload Image: On the web interface, you can upload an image of a toy.
 Get Prediction: The application will then predict the material of the toy (e.g., wood, fabric, plastic, rubber) and display the confidence level.
-Live Demo
-Visit the deployed application at: [3608RpnQrJzhYL9udEhM9iPfpvE_TzWtJ4vBzDmhGFvUqbYX] (This URL will be generated and printed in the Colab output once the Flask app is running and ngrok tunnel is active.)
