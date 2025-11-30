@@ -1,0 +1,10 @@
+duckduckgo-search
+timm
+ddgs
+pyngrok
+Flask
+requests
+Pillow
+torch
+torchvision
+matplotlib
